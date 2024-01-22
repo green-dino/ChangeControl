@@ -6,18 +6,6 @@ This framework is designed for you to guide your processes through carefully con
 We need to to ensure data integrity, confidentiality, and privacy, prevent model theft or evasion, and ensure service availability.
 Let's face reality: communication has its pitfalls, and Murphy's Law reminds us that if something can go wrong, it likely will. When messages are open to interpretation, they often take on the meaning that causes the most harm. A realistic view to guide us in understanding the dynamics of communication.
 
-### Mission
-
-#### Cultivating Growth
-
-Just like the resilient cacti that thrive in the desert, our community is committed to fostering personal and professional growth. We achieve this through various initiatives:
-
-1. **Workshops**: Engage in hands-on learning experiences through workshops covering a wide range of topics in software and hardware development.
-
-2. **Mentorship Programs**: Benefit from mentorship programs where experienced members guide and support individuals in their journey.
-
-3. **Collaborative Projects**: Participate in collaborative projects to apply and enhance your skills, working with fellow members on real-world challenges.
-
 ### Website Design Principles
 
 The design of the Caten8 website is centered around two key principles:
