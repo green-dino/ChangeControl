@@ -1,0 +1,39 @@
+site_name: Caten8
+theme:
+  palette:
+    - scheme: slate
+  name: material
+  features:
+    #- navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    #- navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    #- navigation.expand
+    - navigation.path
+  #  - toc.integrate 
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotation
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  
+
+plugins:
+  - search
+
+copyright: Copyright &copy; 2024 Rye <a href="http://github.com/green-dino" target="_blank"> Github</a>
